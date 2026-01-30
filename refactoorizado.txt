@@ -1,0 +1,20 @@
+4. Finish
+
+Pega:
+
+```txt
+JUSTIFICACIÓN DE LA REFACTORIZACIÓN
+
+Se ha realizado una refactorización sin modificar
+el funcionamiento del programa.
+
+Cambios realizados:
+- Documentación con Javadoc.
+- Mejora del formato del código.
+- Añadidos comentarios explicativos.
+
+No se ha modificado la lógica ni los resultados.
+
+Conclusión:
+El código es funcionalmente idéntico al original,
+pero más claro y legible.
